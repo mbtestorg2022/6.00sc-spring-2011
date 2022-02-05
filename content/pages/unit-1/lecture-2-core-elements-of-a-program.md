@@ -11,7 +11,24 @@ uid: 5a8ad51b-351a-4b3f-0c09-861452ea827d
 Session Overview
 ----------------
 
-| ![Photograph of Monty Python graffiti on a wall in Graz.]({{< resource_file d92dcbd5-5107-2bbd-41df-69c2d072aa8a >}}) |  {{< br >}}{{< br >}} This lecture covers the building blocks of straight line and branching programs: objects, types, operators, variables, execution, and conditional statements. {{< br >}}{{< br >}} _Image courtesy of [southtyrolean](http://www.flickr.com/photos/schoffer/196079076/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of Monty Python graffiti on a wall in Graz.]({{< resource_file d92dcbd5-5107-2bbd-41df-69c2d072aa8a >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture covers the building blocks of straight line and branching programs: objects, types, operators, variables, execution, and conditional statements.
+
+_Image courtesy of [southtyrolean](http://www.flickr.com/photos/schoffer/196079076/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

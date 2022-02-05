@@ -11,7 +11,24 @@ uid: a7cc68bd-f5bd-3347-c014-209d6f7c9e17
 Session Overview
 ----------------
 
-| ![Graph showing a movement trail from a random walk simulation.]({{< resource_file 381bd4c8-01da-26c7-934e-ea69c0324fda >}}) |  {{< br >}}{{< br >}} This lecture completes the introduction of classes by showing a way to implement user-defined iterators. It then discusses simulation models, and illustrates some of the ideas underlying simulations modeling by simulating a random walk. {{< br >}}{{< br >}} _Image courtesy of [donovanbeeson](http://www.flickr.com/photos/donovan_beeson/5792363110/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Graph showing a movement trail from a random walk simulation.]({{< resource_file 381bd4c8-01da-26c7-934e-ea69c0324fda >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture completes the introduction of classes by showing a way to implement user-defined iterators. It then discusses simulation models, and illustrates some of the ideas underlying simulations modeling by simulating a random walk.
+
+_Image courtesy of [donovanbeeson](http://www.flickr.com/photos/donovan_beeson/5792363110/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

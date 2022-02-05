@@ -11,7 +11,24 @@ uid: bf8aaef4-2d80-e9c3-f4d5-1760a6aa50ab
 Session Overview
 ----------------
 
-| ![ses-26.jpg]({{< resource_file 7dba573e-e2ed-2c65-cfbc-594643065f2a >}}) |  {{< br >}}{{< br >}} This lecture provides some perspective on the material covered in the course. In addition to giving a high-level view of the topics covered, it provides a glimpse of what one might do with an education in computer science. {{< br >}}{{< br >}} _Image courtesy of [caseorganic](http://www.flickr.com/photos/caseorganic/4606080708/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![ses-26.jpg]({{< resource_file 7dba573e-e2ed-2c65-cfbc-594643065f2a >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture provides some perspective on the material covered in the course. In addition to giving a high-level view of the topics covered, it provides a glimpse of what one might do with an education in computer science.
+
+_Image courtesy of [caseorganic](http://www.flickr.com/photos/caseorganic/4606080708/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

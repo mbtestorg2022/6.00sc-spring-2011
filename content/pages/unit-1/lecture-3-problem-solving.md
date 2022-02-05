@@ -11,7 +11,22 @@ uid: 3c3069d4-e0ed-fe69-ce4f-6de217d649a5
 Session Overview
 ----------------
 
-| ![Image of mathematical operators, (+ - / x).]({{< resource_file 2f3066e6-6ae1-2a9c-372a-73eed9c9372c >}}) |  {{< br >}}{{< br >}} This lecture covers the use of iteration to build programs whose execution time depends upon the size of inputs. It also introduces search problems and brute force and bisection for solving them. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Image of mathematical operators, (+ - / x).]({{< resource_file 2f3066e6-6ae1-2a9c-372a-73eed9c9372c >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture covers the use of iteration to build programs whose execution time depends upon the size of inputs. It also introduces search problems and brute force and bisection for solving them.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

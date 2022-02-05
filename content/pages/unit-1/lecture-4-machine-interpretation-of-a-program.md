@@ -11,7 +11,24 @@ uid: f13e5af9-52a2-f007-e596-f80bc01059fe
 Session Overview
 ----------------
 
-| ![Photograph of scissors cutting a credit card.]({{< resource_file 4bc208be-60c6-431e-114d-600e230b547d >}}) |  {{< br >}}{{< br >}} This lecture introduces the notion of decomposition and abstraction by specification. It also covers Python modules, functions, parameters, and scoping. Finally, it uses the Python assert statement and type 'str'. {{< br >}}{{< br >}} _Image courtesy of [The Consumerist](http://www.flickr.com/photos/consumerist/4406234952/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of scissors cutting a credit card.]({{< resource_file 4bc208be-60c6-431e-114d-600e230b547d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture introduces the notion of decomposition and abstraction by specification. It also covers Python modules, functions, parameters, and scoping. Finally, it uses the Python assert statement and type 'str'.
+
+_Image courtesy of [The Consumerist](http://www.flickr.com/photos/consumerist/4406234952/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

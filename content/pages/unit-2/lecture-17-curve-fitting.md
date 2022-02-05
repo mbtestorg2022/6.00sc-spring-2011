@@ -11,7 +11,22 @@ uid: e632ebd5-0e8f-47bb-2666-d9152f62e9e4
 Session Overview
 ----------------
 
-| ![Diagram of spring under tension.]({{< resource_file 7de06a38-4626-eee8-6497-de9a3295e785 >}}) |  {{< br >}}{{< br >}} This lecture is about how to use computation to help understand experimental data. It talks about using linear regression to fit a curve to data, and introduces the coefficient of determination as a measure of the tightness of a fit. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Diagram of spring under tension.]({{< resource_file 7de06a38-4626-eee8-6497-de9a3295e785 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture is about how to use computation to help understand experimental data. It talks about using linear regression to fit a curve to data, and introduces the coefficient of determination as a measure of the tightness of a fit.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

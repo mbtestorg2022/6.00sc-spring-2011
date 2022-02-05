@@ -11,7 +11,24 @@ uid: 138c881e-91b6-6b62-fdc8-2ea403e07fc5
 Session Overview
 ----------------
 
-| ![Photograph of an open dictionary.]({{< resource_file 0f36cfac-ad76-8611-5001-15bc1ea92f30 >}}) |  {{< br >}}{{< br >}} This lecture introduces Python tuples, lists, and dictionaries, as well as the concept of mutability and how to avoid problems relating to it. {{< br >}}{{< br >}} _Image courtesy of [enter](http://www.flickr.com/photos/enter/11960491/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of an open dictionary.]({{< resource_file 0f36cfac-ad76-8611-5001-15bc1ea92f30 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture introduces Python tuples, lists, and dictionaries, as well as the concept of mutability and how to avoid problems relating to it.
+
+_Image courtesy of [enter](http://www.flickr.com/photos/enter/11960491/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

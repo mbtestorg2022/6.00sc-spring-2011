@@ -11,7 +11,22 @@ uid: 51a3082b-b50b-dc70-f44f-e076ffa558d6
 Session Overview
 ----------------
 
-| ![Graph showing various logarithmic curves.]({{< resource_file 909d2baa-718a-f8cd-3fd3-18c827218766 >}}) |  {{< br >}}{{< br >}} This lecture revolves around the topic of algorithmic efficiency. It introduces the random access model (RAM) of computation and "big O notation" as a way to talk about order of growth. It concludes with binary search. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Graph showing various logarithmic curves.]({{< resource_file 909d2baa-718a-f8cd-3fd3-18c827218766 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture revolves around the topic of algorithmic efficiency. It introduces the random access model (RAM) of computation and "big O notation" as a way to talk about order of growth. It concludes with binary search.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

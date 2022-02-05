@@ -11,7 +11,22 @@ uid: 518bf74e-c414-e8ec-f4d5-55616396f6d0
 Session Overview
 ----------------
 
-| ![Graphic representation of sorting a list for efficient search.]({{< resource_file cd3922cc-1926-8e6a-89d0-4cd94670fbaa >}}) |  {{< br >}}{{< br >}} This lecture discusses how indirection is used to provide an efficient implementation of Python lists and other data structures. It also presents and analyzes the efficiency of selection and merge sort. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Graphic representation of sorting a list for efficient search.]({{< resource_file cd3922cc-1926-8e6a-89d0-4cd94670fbaa >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture discusses how indirection is used to provide an efficient implementation of Python lists and other data structures. It also presents and analyzes the efficiency of selection and merge sort.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

@@ -11,7 +11,24 @@ uid: d0438662-17d6-8f32-df53-321e932aba07
 Session Overview
 ----------------
 
-| ![Photograph of building blocks sorted by color.]({{< resource_file b5003c39-8382-68fe-8ab0-338ecc4ca7b9 >}}) |  {{< br >}}{{< br >}} This lecture continues to discuss optimization in the context of the knapsack problem, and talks about the difference between greedy approaches and optimal approaches. It then moves on to discuss supervised and unsupervised machine learning optimization problems. Most of the time is spent on clustering. {{< br >}}{{< br >}} _Image courtesy of [Squiggle](http://www.flickr.com/photos/stephenr/4151278461/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of building blocks sorted by color.]({{< resource_file b5003c39-8382-68fe-8ab0-338ecc4ca7b9 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture continues to discuss optimization in the context of the knapsack problem, and talks about the difference between greedy approaches and optimal approaches. It then moves on to discuss supervised and unsupervised machine learning optimization problems. Most of the time is spent on clustering.
+
+_Image courtesy of [Squiggle](http://www.flickr.com/photos/stephenr/4151278461/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

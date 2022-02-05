@@ -11,7 +11,22 @@ uid: e1b5ff21-127d-fb30-33e3-98fce88c42e6
 Session Overview
 ----------------
 
-| ![ses-21.jpg]({{< resource_file 60ac9bba-264e-4869-5fd6-4a52189ef432 >}}) |  {{< br >}}{{< br >}} This lecture begins by finishing up k-means clustering. It then moves on to introduce the notion of modeling things using graphs (sets of nodes and edges that link them). {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![ses-21.jpg]({{< resource_file 60ac9bba-264e-4869-5fd6-4a52189ef432 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture begins by finishing up k-means clustering. It then moves on to introduce the notion of modeling things using graphs (sets of nodes and edges that link them).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

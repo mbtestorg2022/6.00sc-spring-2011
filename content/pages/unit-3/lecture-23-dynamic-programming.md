@@ -11,7 +11,24 @@ uid: 142ece9e-e56e-5c28-8b69-1c969251db2d
 Session Overview
 ----------------
 
-| ![ses-23.jpg]({{< resource_file 96b9ce1f-0a35-4177-3910-f01e080b492d >}}) |  {{< br >}}{{< br >}} This lecture introduces dynamic programming, and discusses the notions of optimal substructure and overlapping subproblems. {{< br >}}{{< br >}} _Image courtesy of [aaroninthe360](http://www.flickr.com/photos/aaroninthe360/5694044516/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![ses-23.jpg]({{< resource_file 96b9ce1f-0a35-4177-3910-f01e080b492d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture introduces dynamic programming, and discusses the notions of optimal substructure and overlapping subproblems.
+
+_Image courtesy of [aaroninthe360](http://www.flickr.com/photos/aaroninthe360/5694044516/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

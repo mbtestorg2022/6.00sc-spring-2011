@@ -11,7 +11,24 @@ uid: 3e1b5283-96cd-c4ee-29eb-12fe1377a558
 Session Overview
 ----------------
 
-| ![ses-25.jpg]({{< resource_file 5744cbbd-f5c1-0da5-aaa2-0073f80f416d >}}) |  {{< br >}}{{< br >}} This lecture introduces queuing network models and simulations. It also prepares students to read the code they are asked to study in preparation for the final exam. {{< br >}}{{< br >}} _Image courtesy of [welovepandas](http://www.flickr.com/photos/welovepandas/314186274/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![ses-25.jpg]({{< resource_file 5744cbbd-f5c1-0da5-aaa2-0073f80f416d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture introduces queuing network models and simulations. It also prepares students to read the code they are asked to study in preparation for the final exam.
+
+_Image courtesy of [welovepandas](http://www.flickr.com/photos/welovepandas/314186274/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

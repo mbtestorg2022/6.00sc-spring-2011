@@ -11,7 +11,24 @@ uid: ebde421e-0808-fd28-3195-0f1a9a69cfb3
 Session Overview
 ----------------
 
-| ![Photograph of a moth taped into a lab notebook.]({{< resource_file 3a7a598d-97e4-1758-6fed-83ef1189049b >}}) |  {{< br >}}{{< br >}} This lecture starts with a brief explanation of why floating point numbers are only an approximation of the real numbers. Most of the lecture is about a systematic approach to debugging. {{< br >}}{{< br >}} _Image courtesy of the [Naval Surface Warfare Center](https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/), Dahlgren, VA._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of a moth taped into a lab notebook.]({{< resource_file 3a7a598d-97e4-1758-6fed-83ef1189049b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture starts with a brief explanation of why floating point numbers are only an approximation of the real numbers. Most of the lecture is about a systematic approach to debugging.
+
+_Image courtesy of the [Naval Surface Warfare Center](https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Dahlgren/), Dahlgren, VA._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

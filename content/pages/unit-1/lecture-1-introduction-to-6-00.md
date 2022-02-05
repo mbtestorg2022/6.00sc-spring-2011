@@ -11,7 +11,22 @@ uid: 5b8b75cf-d4b0-ebf7-e606-27901932f396
 Session Overview
 ----------------
 
-| ![Diagrammatic sketch of the key elements of a stored-program computer.]({{< resource_file 6721552e-828d-144e-db24-768a69768ddd >}}) |  {{< br >}}{{< br >}} This lecture covers course expectations, introduces computer programming and its uses, and begins to familiarize you with concepts related to how programs work. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Diagrammatic sketch of the key elements of a stored-program computer.]({{< resource_file 6721552e-828d-144e-db24-768a69768ddd >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture covers course expectations, introduces computer programming and its uses, and begins to familiarize you with concepts related to how programs work.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

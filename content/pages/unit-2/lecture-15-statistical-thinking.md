@@ -11,7 +11,24 @@ uid: ce0b5b46-79ba-a326-f9fd-0a1c40f8adae
 Session Overview
 ----------------
 
-| ![Photograph of a Roosevelt dime from 1948.]({{< resource_file 23950e2e-ea8f-f130-b10e-4e193f653903 >}}) |  {{< br >}}{{< br >}} This lecture presents ways of ascertaining how dependable information extracted from samples is likely to be. It covers standard deviation, coefficient of variation, and standard error. It also shows how to use pylab to produce histograms. {{< br >}}{{< br >}} _Image courtesy of [Kevin Dooley](http://www.flickr.com/photos/pagedooley/866975841/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of a Roosevelt dime from 1948.]({{< resource_file 23950e2e-ea8f-f130-b10e-4e193f653903 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture presents ways of ascertaining how dependable information extracted from samples is likely to be. It covers standard deviation, coefficient of variation, and standard error. It also shows how to use pylab to produce histograms.
+
+_Image courtesy of [Kevin Dooley](http://www.flickr.com/photos/pagedooley/866975841/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

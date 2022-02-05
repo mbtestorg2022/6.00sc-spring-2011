@@ -11,7 +11,24 @@ uid: 99fb7e49-022e-2ef5-90b8-a591159332ed
 Session Overview
 ----------------
 
-| ![Photograph of a rabbit.]({{< resource_file a036c17d-569b-bbf7-38e6-36b64f1457d3 >}}) |  {{< br >}}{{< br >}} This lecture finishes the discussion of dictionaries, then introduces inductive reasoning and recursion. Examples include generating the Fibonacci sequence and solving the Towers of Hanoi problem. {{< br >}}{{< br >}} _Image courtesy of [Stephen & Claire Farnsworth](http://www.flickr.com/photos/the_farnsworths/5808550435/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of a rabbit.]({{< resource_file a036c17d-569b-bbf7-38e6-36b64f1457d3 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture finishes the discussion of dictionaries, then introduces inductive reasoning and recursion. Examples include generating the Fibonacci sequence and solving the Towers of Hanoi problem.
+
+_Image courtesy of [Stephen & Claire Farnsworth](http://www.flickr.com/photos/the_farnsworths/5808550435/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

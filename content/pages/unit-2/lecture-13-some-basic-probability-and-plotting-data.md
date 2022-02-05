@@ -11,7 +11,24 @@ uid: fbfa6485-7038-d1fe-9497-74c45d99d5e0
 Session Overview
 ----------------
 
-| ![Photograph of assorted dice.]({{< resource_file 3112a166-2d7c-0752-30b8-14159207d282 >}}) |  {{< br >}}{{< br >}} This lecture returns briefly to random walks, and moves on to discuss different views of non-determinism and an introduction to probability. It concludes with examples of using pylab to plot data. {{< br >}}{{< br >}} _Image courtesy of [Lonnie Dunn](http://www.flickr.com/photos/archaicwarrior/3992002490/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of assorted dice.]({{< resource_file 3112a166-2d7c-0752-30b8-14159207d282 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture returns briefly to random walks, and moves on to discuss different views of non-determinism and an introduction to probability. It concludes with examples of using pylab to plot data.
+
+_Image courtesy of [Lonnie Dunn](http://www.flickr.com/photos/archaicwarrior/3992002490/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

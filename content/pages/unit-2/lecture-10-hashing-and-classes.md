@@ -11,7 +11,24 @@ uid: 17410556-8f30-2907-b327-46f2da54236f
 Session Overview
 ----------------
 
-| ![Photograph of a box of air mail envelopes.]({{< resource_file 103553ac-9c66-5723-0fa2-3c613a1fb04a >}}) |  {{< br >}}{{< br >}} This lecture starts by showing how hashing can be used to achieve near constant time lookups and the concept of classes as understood by a computer. It then introduces exceptions. {{< br >}}{{< br >}} _Image courtesy of [donovanbeeson](http://www.flickr.com/photos/donovan_beeson/5792363110/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of a box of air mail envelopes.]({{< resource_file 103553ac-9c66-5723-0fa2-3c613a1fb04a >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture starts by showing how hashing can be used to achieve near constant time lookups and the concept of classes as understood by a computer. It then introduces exceptions.
+
+_Image courtesy of [donovanbeeson](http://www.flickr.com/photos/donovan_beeson/5792363110/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

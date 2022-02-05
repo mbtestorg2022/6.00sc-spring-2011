@@ -11,7 +11,24 @@ uid: fc440c95-aa3e-3ffa-8cff-14461dc75eee
 Session Overview
 ----------------
 
-| ![ses-20.jpg]({{< resource_file 83badeff-3504-8cca-4372-f5bd8d5d19b8 >}}) |  {{< br >}}{{< br >}} This lecture covers hierarchical clustering and introduces k-means clustering. {{< br >}}{{< br >}} _This image is from the [Wikimedia Commons](http://en.wikipedia.org/wiki/File:Manhattan_distance.svg). This image is in the public domain._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![ses-20.jpg]({{< resource_file 83badeff-3504-8cca-4372-f5bd8d5d19b8 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture covers hierarchical clustering and introduces k-means clustering.
+
+_This image is from the [Wikimedia Commons](http://en.wikipedia.org/wiki/File:Manhattan_distance.svg). This image is in the public domain._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

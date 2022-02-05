@@ -11,7 +11,24 @@ uid: 76234e32-1a3a-3b21-e1e5-48190e089977
 Session Overview
 ----------------
 
-| ![Photograph of three doors in a row.]({{< resource_file aea8b182-2ecd-ecc1-762d-9e64dbea8617 >}}) |  {{< br >}}{{< br >}} This lecture starts by defining normal (Gaussian), uniform, and exponential distributions. It then shows how Monte Carlo simulations can be used to analyze the classic Monty Hall problem and to find an approximate value of pi. {{< br >}}{{< br >}} _Image courtesy of Xiaozhuli on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of three doors in a row.]({{< resource_file aea8b182-2ecd-ecc1-762d-9e64dbea8617 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture starts by defining normal (Gaussian), uniform, and exponential distributions. It then shows how Monte Carlo simulations can be used to analyze the classic Monty Hall problem and to find an approximate value of pi.
+
+_Image courtesy of Xiaozhuli on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

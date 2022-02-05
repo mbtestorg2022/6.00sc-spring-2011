@@ -11,7 +11,24 @@ uid: 9b324cb4-75a7-af8a-bf5a-0391414fa0b9
 Session Overview
 ----------------
 
-| ![Photograph of a backpack.]({{< resource_file 0cfdaa1b-44fa-abde-b83f-be7584387a94 >}}) |  {{< br >}}{{< br >}} This lecture continues the discussion of curve fitting, emphasizing the interplay among theory, experimentation, and computation and addressing the problem of over-fitting. It then moves on to introduce the notion of an optimization problem, and illustrates it using the 0/1 knapsack problem. {{< br >}}{{< br >}} _Image courtesy of [kob42kob](http://www.flickr.com/photos/kob42kob/52185287/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of a backpack.]({{< resource_file 0cfdaa1b-44fa-abde-b83f-be7584387a94 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture continues the discussion of curve fitting, emphasizing the interplay among theory, experimentation, and computation and addressing the problem of over-fitting. It then moves on to introduce the notion of an optimization problem, and illustrates it using the 0/1 knapsack problem.
+
+_Image courtesy of [kob42kob](http://www.flickr.com/photos/kob42kob/52185287/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

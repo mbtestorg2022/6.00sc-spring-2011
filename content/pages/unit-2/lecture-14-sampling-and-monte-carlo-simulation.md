@@ -11,7 +11,22 @@ uid: eb6bcb74-e4a6-c927-a72e-0bf586910c4c
 Session Overview
 ----------------
 
-| ![Photograph of a floppy disk.]({{< resource_file cfb649b1-4143-7dcc-ac12-b3fdb249d1e5 >}}) |  {{< br >}}{{< br >}} This lecture starts with some examples of how to use pylab's plotting mechanisms. It then returns to the topic of using probability and statistics to derive information from samples. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of a floppy disk.]({{< resource_file cfb649b1-4143-7dcc-ac12-b3fdb249d1e5 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture starts with some examples of how to use pylab's plotting mechanisms. It then returns to the topic of using probability and statistics to derive information from samples.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

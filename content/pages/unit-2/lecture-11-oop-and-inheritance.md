@@ -11,7 +11,24 @@ uid: c7f4e874-e827-c2ec-07cb-6c920e3e1ee3
 Session Overview
 ----------------
 
-| ![Photograph of ink droplets mixing in water.]({{< resource_file c482305b-06dc-39b2-b789-d387bd1245a0 >}}) |  {{< br >}}{{< br >}} In this lecture, we learn about object-oriented programming (OOP) and how classes are used to implement new types of objects in Python. As part of that discussion we introduce inheritance. {{< br >}}{{< br >}} _Image courtesy of The Ridg on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of ink droplets mixing in water.]({{< resource_file c482305b-06dc-39b2-b789-d387bd1245a0 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In this lecture, we learn about object-oriented programming (OOP) and how classes are used to implement new types of objects in Python. As part of that discussion we introduce inheritance.
+
+_Image courtesy of The Ridg on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

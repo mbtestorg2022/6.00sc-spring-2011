@@ -11,7 +11,24 @@ uid: 1516a60b-ecbc-5b34-fa72-5b89a5ef9a21
 Session Overview
 ----------------
 
-| ![ses-24.jpg]({{< resource_file b0e4010b-f0f5-d906-d006-b65df70059eb >}}) |  {{< br >}}{{< br >}} This lecture discusses some common ways that people use statistics to draw invalid or misleading conclusions. {{< br >}}{{< br >}} _Image courtesy of [spweber](http://www.flickr.com/photos/spweber/5016169104/in/photostream/) on Flickr._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![ses-24.jpg]({{< resource_file b0e4010b-f0f5-d906-d006-b65df70059eb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture discusses some common ways that people use statistics to draw invalid or misleading conclusions.
+
+_Image courtesy of [spweber](http://www.flickr.com/photos/spweber/5016169104/in/photostream/) on Flickr._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------

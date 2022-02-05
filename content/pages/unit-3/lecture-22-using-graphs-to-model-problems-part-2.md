@@ -11,7 +11,24 @@ uid: d4f15989-167b-6654-ef5c-a2931d758afd
 Session Overview
 ----------------
 
-| ![ses-22.jpg]({{< resource_file c10820c3-cb9d-e8eb-b479-cacc401976a3 >}}) |  {{< br >}}{{< br >}} This lecture returns to graph theory. It defines and gives examples of some classic graph problems: shortest path, shortest weighted path, cliques, and min-cut. It then shows how memoization can be used to speed up some algorithms. {{< br >}}{{< br >}} _[Centers for Disease Control and Prevention](http://www.cdc.gov/). This image is in the public domain._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![ses-22.jpg]({{< resource_file c10820c3-cb9d-e8eb-b479-cacc401976a3 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+This lecture returns to graph theory. It defines and gives examples of some classic graph problems: shortest path, shortest weighted path, cliques, and min-cut. It then shows how memoization can be used to speed up some algorithms.
+
+_[Centers for Disease Control and Prevention](http://www.cdc.gov/). This image is in the public domain._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Session Activities
 ------------------
