@@ -43,7 +43,7 @@ Session Activities
 > 
 > ### Resources
 > 
-> *   [Lecture code handout (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec24)
+> *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec24)
 > *   [Lecture code (PY)]({{< baseurl >}}/resources/lec24)
 > *   [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec24_slides)
 

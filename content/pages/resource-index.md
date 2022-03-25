@@ -983,7 +983,7 @@ None
 [Lecture 21: Using Graphs to Model Problems, Part 1]({{< baseurl >}}/resources/lecture-21-using-graphs-to-model-problems-part-1-1)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec21_slides)
+[Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec21_slides)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -1078,7 +1078,7 @@ None
 {{< tdopen >}}
 
 
-[Lecture code handout (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec24)
+[Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec24)
 
 [Lecture code (PY)]({{< baseurl >}}/resources/lec24)
 

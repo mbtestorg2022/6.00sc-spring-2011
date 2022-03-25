@@ -48,7 +48,7 @@ A second edition of the textbook is now available. However, there may be some di
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529624) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. MIT Press, 2016. ISBN: 9780262529624.
 
-If you choose not to purchase the textbook, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Introduction to Python_ (PDF)](http://tdc-www.harvard.edu/Python.pdf).
+If you choose not to purchase the textbook, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or [_An Introduction to Python_ (PDF)](http://tdc-www.harvard.edu/Python.pdf).
 
 Online readings will be posted on the appropriate session pages. A more complete list of readings and references (not all of which are specifically assigned during lectures) can be found in the [References]({{< baseurl >}}/pages/references) section.
 

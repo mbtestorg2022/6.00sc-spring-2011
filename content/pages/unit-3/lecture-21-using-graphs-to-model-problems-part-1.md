@@ -43,7 +43,7 @@ Session Activities
 > 
 > *   [Lecture code handout (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec21)
 > *   [Lecture code (PY)]({{< baseurl >}}/resources/lec21)
-> *   [Lecture slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec21_slides)
+> *   [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_00scs11_lec21_slides)
 
 Check Yourself
 --------------
