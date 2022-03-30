@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1516a60b-ecbc-5b34-fa72-5b89a5ef9a21
 resourcetype: Image
 title: ses-24.jpg
 uid: b0e4010b-f0f5-d906-d006-b65df70059eb

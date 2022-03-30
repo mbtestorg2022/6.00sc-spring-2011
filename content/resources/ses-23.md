@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 142ece9e-e56e-5c28-8b69-1c969251db2d
 resourcetype: Image
 title: ses-23.jpg
 uid: 96b9ce1f-0a35-4177-3910-f01e080b492d

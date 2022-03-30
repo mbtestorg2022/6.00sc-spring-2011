@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc440c95-aa3e-3ffa-8cff-14461dc75eee
 resourcetype: Image
 title: ses-20.jpg
 uid: 83badeff-3504-8cca-4372-f5bd8d5d19b8

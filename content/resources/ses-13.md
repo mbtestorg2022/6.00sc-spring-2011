@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fbfa6485-7038-d1fe-9497-74c45d99d5e0
 resourcetype: Image
 title: ses-13.jpg
 uid: 3112a166-2d7c-0752-30b8-14159207d282

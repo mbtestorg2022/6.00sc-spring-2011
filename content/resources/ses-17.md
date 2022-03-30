@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e632ebd5-0e8f-47bb-2666-d9152f62e9e4
 resourcetype: Image
 title: ses-17.jpg
 uid: 7de06a38-4626-eee8-6497-de9a3295e785

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 99fb7e49-022e-2ef5-90b8-a591159332ed
 resourcetype: Image
 title: ses-06.jpg
 uid: a036c17d-569b-bbf7-38e6-36b64f1457d3

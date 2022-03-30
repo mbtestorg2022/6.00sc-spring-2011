@@ -70,7 +70,7 @@ None
 ### Readings
 
 *   [The Python Standard Library](http://docs.python.org/library/)
-*   [_6.01SC Introduction to Electrical Engineering and Computer Science I_](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
+*   [_6.01SC Introduction to Electrical Engineering and Computer Science I_](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)
 
 
 {{< tdclose >}}
@@ -291,7 +291,7 @@ None
 
 ### Related Lectures
 
-*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008/). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
+*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
     *   Dynamic programming I: memoization, Fibonacci, Crazy Eights, guessing
 
 
@@ -425,10 +425,10 @@ _Note: Solutions are not available for this assignment._
 
 ### Related Lectures
 
-*   [_6.01SC Introduction to Electrical Engineering and Computer Science I_.](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
+*   [_6.01SC Introduction to Electrical Engineering and Computer Science I_.](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)
     *   [Search Algorithms](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/pages/unit-4-probability-and-planning/search-algorithms)
     *   [Optimizing a search](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/pages/unit-4-probability-and-planning/optimizing-a-search)
-*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008/). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
+*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
     *   Binary search trees
     *   Sorting
     *   Searching
@@ -557,7 +557,7 @@ _Note: Solutions are not available for this assignment._
 
 ### Related Lectures
 
-*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008/). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
+*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
     *   Hashing I: Chaining, hash functions
     *   Hashing II: Table doubling, Karp-Rabin
     *   Hashing III: Open addressing

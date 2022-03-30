@@ -3,6 +3,7 @@ content_type: resource
 description: This is a sample file of problem set 8.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/0388db24e4241ed8e94efefc5cfcf40f_ps8_sol.zip
 file_type: application/zip
+parent_uid: 9b324cb4-75a7-af8a-bf5a-0391414fa0b9
 resourcetype: Other
 title: ps8_sol.zip
 uid: 0388db24-e424-1ed8-e94e-fefc5cfcf40f

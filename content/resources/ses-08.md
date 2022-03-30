@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 51a3082b-b50b-dc70-f44f-e076ffa558d6
 resourcetype: Image
 title: ses-08.jpg
 uid: 909d2baa-718a-f8cd-3fd3-18c827218766

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3c3069d4-e0ed-fe69-ce4f-6de217d649a5
 resourcetype: Image
 title: ses-03.jpg
 uid: 2f3066e6-6ae1-2a9c-372a-73eed9c9372c

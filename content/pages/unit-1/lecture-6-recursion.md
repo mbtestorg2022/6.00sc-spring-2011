@@ -125,7 +125,7 @@ After watching the lecture, you may want to read some of the following resources
 
 ### Related Lectures
 
-*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008/). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
+*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
     *   Dynamic programming I: memoization, Fibonacci, Crazy Eights, guessing
 
 « [Previous]({{< baseurl >}}/pages/unit-1/lecture-5-objects-in-python) | [Next]({{< baseurl >}}/pages/unit-1/lecture-7-debugging) »

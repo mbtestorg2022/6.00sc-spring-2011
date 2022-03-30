@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ce0b5b46-79ba-a326-f9fd-0a1c40f8adae
 resourcetype: Image
 title: ses-15.jpg
 uid: 23950e2e-ea8f-f130-b10e-4e193f653903

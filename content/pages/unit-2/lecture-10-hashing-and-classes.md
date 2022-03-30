@@ -150,7 +150,7 @@ After watching the lecture, you may want to read some of the following resources
 
 ### Related Lectures
 
-*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008/). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
+*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-spring-2008). 6.006 lectures assume a greater level of mathematical sophistication than does 6.00SC. Read the lecture notes on:
     *   Hashing I: Chaining, hash functions
     *   Hashing II: Table doubling, Karp-Rabin
     *   Hashing III: Open addressing

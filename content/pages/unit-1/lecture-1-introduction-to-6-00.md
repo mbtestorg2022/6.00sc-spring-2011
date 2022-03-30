@@ -111,6 +111,6 @@ These optional resources are provided for students that wish to explore this top
 After watching the lecture, you may want to view some of the following resources:
 
 *   [The Python Standard Library](http://docs.python.org/library/)
-*   [_6.01SC Introduction to Electrical Engineering and Computer Science I_](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
+*   [_6.01SC Introduction to Electrical Engineering and Computer Science I_](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)
 
 « [Previous]({{< baseurl >}}/pages/unit-1) | [Next]({{< baseurl >}}/pages/unit-1/lecture-2-core-elements-of-a-program) »

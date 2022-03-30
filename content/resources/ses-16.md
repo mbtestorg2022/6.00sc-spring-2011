@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 76234e32-1a3a-3b21-e1e5-48190e089977
 resourcetype: Image
 title: ses-16.jpg
 uid: aea8b182-2ecd-ecc1-762d-9e64dbea8617

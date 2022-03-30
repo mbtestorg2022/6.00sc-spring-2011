@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e1b5ff21-127d-fb30-33e3-98fce88c42e6
 resourcetype: Image
 title: ses-21.jpg
 uid: 60ac9bba-264e-4869-5fd6-4a52189ef432

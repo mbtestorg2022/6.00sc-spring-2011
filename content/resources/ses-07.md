@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ebde421e-0808-fd28-3195-0f1a9a69cfb3
 resourcetype: Image
 title: ses-07.jpg
 uid: 3a7a598d-97e4-1758-6fed-83ef1189049b

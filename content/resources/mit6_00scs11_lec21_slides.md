@@ -4,6 +4,7 @@ description: This resource contains information related to using graphs to model
   part 1.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/03b3f2e03d53422b5100b4f06b577dde_MIT6_00SCS11_lec21_slides.pdf
 file_type: application/pdf
+parent_uid: e1b5ff21-127d-fb30-33e3-98fce88c42e6
 resourcetype: Document
 title: 'Lecture 21 slides: Using Graphs to Model Problems, Part 1'
 uid: 03b3f2e0-3d53-422b-5100-b4f06b577dde

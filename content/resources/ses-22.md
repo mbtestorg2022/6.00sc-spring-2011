@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: d4f15989-167b-6654-ef5c-a2931d758afd
 resourcetype: Image
 title: ses-22.jpg
 uid: c10820c3-cb9d-e8eb-b479-cacc401976a3

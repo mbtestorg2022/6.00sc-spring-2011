@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to introduction to 6.00.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/b2acf34427bda63e0009c869dab57401_MIT6_00SCS11_lec01_slides.pdf
 file_type: application/pdf
+parent_uid: 5b8b75cf-d4b0-ebf7-e606-27901932f396
 resourcetype: Document
 title: 'Lecture 1 slides: Introduction to 6.00'
 uid: b2acf344-27bd-a63e-0009-c869dab57401

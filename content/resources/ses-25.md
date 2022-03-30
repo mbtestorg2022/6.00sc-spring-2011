@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3e1b5283-96cd-c4ee-29eb-12fe1377a558
 resourcetype: Image
 title: ses-25.jpg
 uid: 5744cbbd-f5c1-0da5-aaa2-0073f80f416d

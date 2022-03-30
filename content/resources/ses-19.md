@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: d0438662-17d6-8f32-df53-321e932aba07
 resourcetype: Image
 title: ses-19.jpg
 uid: b5003c39-8382-68fe-8ab0-338ecc4ca7b9
